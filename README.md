@@ -48,6 +48,14 @@ The dataset was obtained from the [Burger_Dataset](https://www.kaggle.com/datase
 | extras           |Extra added Itens         | VARCHAR(4)    |
 | order_time                | Timestamp when order was delievered       | Timestamp     |
 
+
+
+## Schema
+
+[SQL Schema](https://github.com/Chandan-Sav/SQL_4-.My_SQL./assets/121309914/cebc00b7-9f80-455d-928b-cdca778bad95)
+
+
+
 ## Case Study Queries to find
 
 ### Queries
