@@ -67,7 +67,7 @@ how many had no changes?
 
 ## Code
 
-For the rest of the code, check the [SQL_queries.sql](https://github.com/Chandan-Sav/SQL_3-.My_SQL./blob/main/Swiggy_Query.sql) file
+For the rest of the code, check the [SQL_queries.sql](https://github.com/Chandan-Sav/SQL_4-.My_SQL./blob/main/Burger_SQL_Query.sql) file
 
 ```sql
 -- Create database
